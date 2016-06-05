@@ -16,10 +16,14 @@
 
 ##プログラム
 1. 委員会報告
+	- 報告1
+	- 報告2
+	- 報告3
+	- 報告4
 
 1. 講演
     - テーマ：「今日から、あなたもPepperロボアプリのエンジニアに」  
-    - 講演者：YouTeacher社長 布和 賀什格
+    - 講演者：布和 賀什格 (YouTeacher社長)
 
 1. 自由発表1
     - テーマ： 未定
@@ -28,6 +32,12 @@
 1. 自由発表1
     - テーマ： 未定
     - 講演者： 未定
+
+##出欠確認
+- 下のリンックを押して、出欠登録を行ってください  
+[https://chouseisan.com/schedule/List?h=94196c6423b3466ebe04c36eb276c822&from=groupmessage&isappinstalled=0](https://chouseisan.com/schedule/List?h=94196c6423b3466ebe04c36eb276c822&from=groupmessage&isappinstalled=0)
+
+
 
 ##10+5自由発表に関して：
 
