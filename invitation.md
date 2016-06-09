@@ -48,7 +48,7 @@
         - 自由討論&意見交換 10分
 
 ##出欠登録
-- 会議は会議室に入れるだけ当日まで受付可能です
+- 会議の出欠は会議室に入れるだけ当日まで受付可能です
 - 懇親会の出欠は出来るだけ早めにお願いします
 - 下のリンクを押して、出欠登録を行ってください  
 [https://chouseisan.com/schedule/List?h=94196c6423b3466ebe04c36eb276c822&from=groupmessage&isappinstalled=0](https://chouseisan.com/schedule/List?h=94196c6423b3466ebe04c36eb276c822&from=groupmessage&isappinstalled=0)
